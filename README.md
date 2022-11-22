@@ -3,7 +3,7 @@ Olá! sou o Thiago e estou aprendendo as linguagens para ser um dev fullstack �
 - 😄 Estou estudando HTML, CSS e JavaScript
 <div>
   <a href="https://github.com/thiaguss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiaguss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiaguss&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaguss&layout=compact&langs_count=7&theme=dark"/>
     <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/dbe2bfaf7cef9784c182605c9741fe90.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a>
     
