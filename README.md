@@ -1,5 +1,5 @@
-<h1 align="center">👋 Olá! Eu sou Thiago Santos</h1>
-<h3 align="center">📊 Data Analyst  | SQL | Python | Power BI | Business Intelligence</h3>
+<h1 align="center">🚀 Olá, eu sou Thiago Santos! </h1>
+<h3 align="center">📊 Data Analyst | SQL | Python | Power BI | Business Intelligence</h3>
 
 ---
 
@@ -10,37 +10,40 @@
 ---
 
 ## 📌 **Sobre mim**
-🔹 Apaixonado por **Análise de Dados e Business Intelligence**  
-🔹 Experiência com **Python, SQL, Power BI, Excel**  
-🔹 Transformando dados **em estratégias e insights valiosos**  
+
+Sou um entusiasta da Análise de Dados e Business Intelligence, sempre buscando transformar dados em insights estratégicos. Possuo experiência com **Python, SQL, Power BI e Excel Avançado**, e estou constantemente aprendendo novas tecnologias para aprimorar minhas habilidades e impulsionar a tomada de decisões baseadas em dados.
 
 ---
 
 ## 🛠️ **Minhas Skills**  
-### **👨‍💻 Ferramentas e Tecnologias**
-- 🐍 **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
-- 🗄️ **SQL** (MySQL, SQL Server, Postgresql)  
-- 📊 **Power BI** (DAX, ETL, Data Visualization)  
-- 🔄 **ETL e Data Pipeline**  
-- 📂 **Excel Avançado**
+
+| 💻 Tecnologia      | ⚡ Habilidades                           |
+|-------------------|-----------------------------------|
+| 🐍 **Python**     | Pandas, NumPy, Matplotlib, Seaborn |
+| 🗄️ **SQL**       | MySQL, SQL Server, PostgreSQL     |
+| 📊 **Power BI**  | DAX, ETL, Data Visualization     |
+| 🔄 **ETL**       | Extração, Transformação, Carga   |
+| 📂 **Excel**     | Tabelas Dinâmicas, Macros, VBA   |
 
 ---
 
 ## 📈 **Estatísticas do GitHub**
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiaguss&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaguss&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiaguss&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiaguss&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
 ## 🏆 **Destaques do GitHub**
-- 🔹 **Repositórios com Projetos de Análise de Dados:**  
-  - 📊 Dashboards interativos no **Power BI**  
-  - 🐍 Modelagem e manipulação de dados com **Python**  
-  - 🗄️ Queries avançadas em **SQL**  
 
-💡 **Quer ver mais?** Confira meus projetos abaixo!  
+🔹 **Projetos de Análise de Dados:**  
+✅ Dashboards interativos no **Power BI**  
+✅ Modelagem e manipulação de dados com **Python**  
+✅ Queries avançadas em **SQL**  
+
+📌 **Quer ver mais?** Confira meus repositórios abaixo! 🚀  
 
 ---
 
