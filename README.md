@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Olá, eu sou Thiago Santos! </h1>
-<h3 align="center">📊 Data Analyst | SQL | Python | Power BI | Business Intelligence</h3>
+<h3 align="center">📊 Data Scientist | Python | SQL | Machine Learning | </h3>
 
 ---
 
@@ -11,7 +11,7 @@
 
 ## 📌 **Sobre mim**
 
-Sou um entusiasta da Análise de Dados e Business Intelligence, sempre buscando transformar dados em insights estratégicos. Possuo experiência com **Python, SQL, Power BI e Excel Avançado**, e estou constantemente aprendendo novas tecnologias para aprimorar minhas habilidades e impulsionar a tomada de decisões baseadas em dados.
+Com formação em Análise e Desenvolvimento de Sistemas, hoje estou focado em me tornar Cientista de Dados, com domínio de Python, bibliotecas como Pandas, NumPy, Matplotlib e fundamentos de Machine Learning. Estou aprofundando meus estudos em modelagem preditiva, IA e análise estatística, com o objetivo de atuar em projetos que envolvam dados financeiros e inteligência de negócios.
 
 ---
 
@@ -33,17 +33,6 @@ Sou um entusiasta da Análise de Dados e Business Intelligence, sempre buscando 
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiaguss&show_icons=true&theme=radical&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiaguss&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
----
-
-## 🏆 **Destaques do GitHub**
-
-🔹 **Projetos de Análise de Dados:**  
-✅ Dashboards interativos no **Power BI**  
-✅ Modelagem e manipulação de dados com **Python**  
-✅ Queries avançadas em **SQL**  
-
-📌 **Quer ver mais?** Confira meus repositórios abaixo! 🚀  
 
 ---
 
